@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80061413483",
+    "project_id": "flash-chat-b933c",
+    "storage_bucket": "flash-chat-b933c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80061413483:android:cd2c4093b09c7b77c3192e",
+        "android_client_info": {
+          "package_name": "co.mostafayasser.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80061413483-ebc61ohuehuftvau4nb0dcl9cvvseqan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKcQmyONE1oXd1FF_R4G9nAdvOmfOMuUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80061413483-ebc61ohuehuftvau4nb0dcl9cvvseqan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
